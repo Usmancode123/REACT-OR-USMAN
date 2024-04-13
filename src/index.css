@@ -1,0 +1,31 @@
+*{
+  background: #000000;
+  color: #ffffff;
+}
+.container{
+  margin-top: 2rem;
+}
+.row{
+  text-align: left;
+  background: #ffffff;
+  margin-bottom: 2rem; font-size: 20px; text-transform: capitalize; cursor: pointer;
+}
+ input{
+
+ border: 1px solid white;
+ border-radius: 5px;
+ outline: 0;
+ padding: 10px ;
+ }
+ .input{
+  width: 400px;
+ }
+ button{
+  width: 100px;
+
+ } 
+
+ #btn{
+  font-weight: 600;
+  font-size: 19px;
+ }
